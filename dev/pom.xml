@@ -28,11 +28,15 @@
     <groupId>jar.propios.jdbc</groupId>
     <artifactId>mysql</artifactId>
     <version>8.0.26</version>
+    <scope>system</scope>
+    <systemPath>C:\Users\vick equipo\Documents\Vick\Diplomado Buap2021\software\jarsAdd\mysql-connector-java-8.0.26.jar</systemPath>
 </dependency>
 <dependency>
     <groupId>jar.propios.orm</groupId>
     <artifactId>orm</artifactId>
     <version>1.0.0</version>
+    <scope>system</scope>
+    <systemPath>C:\Users\vick equipo\Documents\Vick\Diplomado Buap2021\software\jarsAdd\orm.jar</systemPath>    
 </dependency>
   </dependencies>
   <build>
